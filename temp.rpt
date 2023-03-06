@@ -1,0 +1,41 @@
+  Page 1                                    Mon Mar  6 16:24:46 2023
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Mon Mar  6 16:24:46 2023
+
+   
+  Hydraulic Status:
+  -----------------------------------------------------------------------
+     0:00:00: Pump XFX-P1 changed by timer control
+     0:00:00: Pump XFX-P2 changed by timer control
+     0:00:00: Pump XFX-P3 changed by timer control
+     0:00:00: Pump XFX-P4 changed by timer control
+     0:00:00: Pump XFX-P5 changed by timer control
+     0:00:00: Pump HX-P1 changed by timer control
+     0:00:00: Pump HX-P2 changed by timer control
+     0:00:00: Pump HX-P3 changed by timer control
+     0:00:00: Pump HX-P4 changed by timer control
+     0:00:00: Pump HX-P5 changed by timer control
+     0:00:00: Balanced after 7 trials
+     0:00:00: Reservoir R00003 is emptying
+     0:00:00: Tank XFX-Tank is closed at 1.04 m
+     0:00:00: Tank HX-TANK is closed at 1.03 m
+     0:00:00: CV P117648 closed
+     0:00:00: Pump XFX-P5 closed
+     0:00:00: Pump XFX-P4 closed
+     0:00:00: Pump XFX-P3 closed
+     0:00:00: Pump XFX-P2 closed
+     0:00:00: Pump XFX-P1 closed
+     0:00:00: Pump HX-P5 closed
+     0:00:00: Pump HX-P4 closed
+     0:00:00: Pump HX-P3 closed
+     0:00:00: Pump HX-P2 closed
+     0:00:00: Pump HX-P1 closed
+   
+  Analysis ended Mon Mar  6 16:24:46 2023
